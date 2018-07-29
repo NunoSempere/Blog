@@ -1,5 +1,6 @@
 ## Que
 
+<div class=text-justify> 
 En un lugar de la Mancha, que no me puedo acordarme de su nombre...
 
 Desde hace ya tiempo, colecciono instancias de "que"s mal utilizados, particularmente casos en los que no se dice la preposición.
@@ -38,3 +39,4 @@ Yo por ejempo conozco a una persona que en el bloque de al lado de su casa han p
 (Das waren) sehr interessante Dinge, die ich gehört habe. Birgita Fröhlich, Deutschlehrerin  
 Investigar el "wo" austríaco como conector universal.  
 Su complementario es un conunto que si tomas un límite se queda en él  
+</div>
