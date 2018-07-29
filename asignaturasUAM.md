@@ -1,4 +1,4 @@
-Estas son unas breves notas de un servidor acerca de cómo afrontar la carrera de Matemáticas en la UAM. Si alguien me escribe un comentario valioso, me tomaré la libertad de añadirlo.
+Estas son unas breves notas de un servidor acerca de cómo afrontar la carrera de Matemáticas en la UAM. Si alguien me envía un comentario a ahab.frzcreryu@tznvy.pbz [rot13](https://www.rot13.com/)
 
 ## Consejos generales
 Al empezar la carrera, me hubiese gustado haberme atrevido a tener desde el principio el coraje de no ir a clase cuando el profesor es claramente incompetente. Por ejemplo, en Geometría de Curvas y Superficies llegaba una profesora y copiaba los apuntes de otro, sin pena ni gloria. Todo el mundo sabía que la profesora no valía para nada, pero aún así mucha gente tardó meses en darla por perdida. La solución que muchos encontraron fue atender a las clases de la tarde, que tenían a un mejor profesor. 
