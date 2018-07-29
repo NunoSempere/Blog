@@ -15,7 +15,7 @@ Se requiere una maquinaria que carezco.
 // Incorrecto si modifica a "amiga suya", y no a todo lo anterior.  
 
 Anédcdota: Académicos de la lengua tardando mucho para hablar con absoluta corrección.
-Pero esta corrección absoluta no e una característica del lenguaje común.
+Pero esta corrección absoluta no e' una característica del lenguaje común.
 En vez de canonizar "cocreta", se puede dar autorizar al hablante para desviarse de los cánones de la corrección, o admitir que ya tiene esa potestad.
 
 En un banco pequeño, que conozco a su director  
