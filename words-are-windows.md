@@ -1,3 +1,5 @@
+## Words are windows or they're walls
+
 I feel so sentenced by your words  
 I feel so judged and sent away  
 Before I go I got to know  
