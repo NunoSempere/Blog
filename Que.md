@@ -35,6 +35,8 @@ Aquí hay algunos que me he tenido que cabrear con ellos. - Alonso, estudiante C
 Es la única persona de clase que sé de dónde es. - Desconocido  
 Quieres variables que cada uno de sus componentes puedan ser de tipos distintos. - Carlos, profesor de programación.  
 Yo por ejempo conozco a una persona que en el bloque de al lado de su casa han puesto unas antenas repetidoras [...] - Desconocido  
-(Das waren) sehr interessante Dinge, die ich gehört habe. Birgita Fröhlich, Deutschlehrerin  
+(Das waren) sehr interessante Dinge, die ich gehört habe. Birgita Fröhlich, Deutschlehrerin 
 Investigar el "wo" austríaco como conector universal.  
-Su complementario es un conunto que si tomas un límite se queda en él  
+Su complementario es un conjunto que si tomas un límite se queda en él  
+[...] un libro que en su prefacio... (oído en Radio Nacional - no es un da cualquiera)
+
